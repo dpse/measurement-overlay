@@ -1,12 +1,10 @@
 # Overview
 
-*MeasurementOverlay* is a utility that allows you to add guidelines and grids on top of other applications in order to e.g. assist in aligment or for making pixel measurements.
+*MeasurementOverlay* is a utility that allows you to add guidelines and grids on top of other applications in order to e.g. assist in alignment or for making pixel measurements.
 
 ![Example usage](https://raw.githubusercontent.com/dpse/measurement-overlay/master/example.gif)
 
-
 The code is based on [GameOverlay.Net](https://github.com/michel-pi/GameOverlay.Net).
-
 
 # Hotkeys
 
@@ -22,7 +20,7 @@ The hotkeys below can be used while inserting guidelines or grids. Global hotkey
 
 Holding down Shift, Alt or Control keys when moving using arrow keys or when adjusting line width will result in larger steps (e.g. 20, 10 and 5 pixels when moving).
 
-# Dependendencies
+# Dependencies
 
 - [SharpDX](http://sharpdx.org/) (SharpDX, SharpDX.DXGI, SharpDX.Direct2D1)
 - [NHotkey](https://github.com/thomaslevesque/NHotkey)
